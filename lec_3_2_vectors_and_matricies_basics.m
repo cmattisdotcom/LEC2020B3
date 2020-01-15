@@ -9,7 +9,7 @@ vec1 = [1 2 3 4 5]
 
 vec2 = [1,2, 3,4,5]
 
-
+% just testing edits
 
 % using the colon operator
 vec3 = 0:10
